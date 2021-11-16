@@ -2,6 +2,9 @@
 
 [Git and Github video](https://www.youtube.com/watch?v=RGOj5yH7evk).
 
+
+## Repository first created on github  
+
 1. Created the demo file on github and cloned it on my laptop - 
 **git clone address of repo**
 
@@ -32,5 +35,9 @@ using **SSH keys**
 
 10. Lastly we can push on github after origin specifies the name of branch -
 **git push origin main**
+
+
+## Repository created first on Local computer
+
 
 
