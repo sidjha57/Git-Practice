@@ -37,7 +37,6 @@ using **SSH keys**
 **git push origin main**
 
 
-## Repository created first on Local computer
-
+## Making repository locally
 
 
