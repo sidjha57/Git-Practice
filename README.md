@@ -1,6 +1,6 @@
 # Demo
 
-[Git and Github video] (https://www.youtube.com/watch?v=RGOj5yH7evk)
+[Git and Github video](https://www.youtube.com/watch?v=RGOj5yH7evk).
 
 1. Created the demo file on github and cloned it on my laptop - 
 **git clone address of repo**
